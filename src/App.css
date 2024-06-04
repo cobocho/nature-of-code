@@ -1,0 +1,16 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	width: 100dvw;
+	height: 100dvh;
+}
+
+canvas {
+	border: 1px solid black;
+}
+
+.p5Canvas {
+	display: none;
+}
